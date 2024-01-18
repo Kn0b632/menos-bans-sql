@@ -18,9 +18,10 @@
 ## Development
 ```
 git clone git@github.com:BanManagement/BanManager-WebUI.git
-npm install
+npm ci --production
 npm run setup
-npm run dev
+npm run build
+node server.js
 ```
 
 ## Help / Bug / Feature Request
