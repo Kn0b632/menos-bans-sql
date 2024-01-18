@@ -17,7 +17,7 @@
 - A single interface for multiple Minecraft servers
 ## Development
 ```
-git clone git@github.com:BanManagement/BanManager-WebUI.git
+git clone git@github.com/Kn0b632/menos-bans-sql
 npm ci --production
 npm run setup
 npm run build
